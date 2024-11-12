@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=hurcan09&color=blue)
 <h1 align="center">Hi 👋, I'm Hürcan ALKAN</h1>
 <h3 align="center">a passionate Data Scientist from Turkey. my passion for Data lies with creating best possible insights and making them come true value for the business. I take great care in the insights, value for buiness and code quality of the things I build.</h3>
 
