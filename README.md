@@ -1,11 +1,13 @@
+![](https://komarev.com/ghpvc/?username=HurcanALKAN&color=blue)
 <h1 align="center">Hi 👋, I'm Hürcan ALKAN</h1>
-<h3 align="center">a passionate Data Scientist from Turkey. my passion for Data lies with creating best possible insights and making them come true value for the business. I take great care in the insights, value for buiness and code quality of the things I build.</h3>
+<h3 align="center">a passionate Data Scientist from Turkey. my passion for Data lies with creating best possible insights and making them come true value for the business. I take great care in the insights, value for buiness and code quality of the things I build.🔭I’m currently working as Senior Data Analyst and Data Scientist | Machine Learning Specialist. 💼I’ve completed a Associate degree in Computer Programing. 📫How to reach me hurcan1907@gmail.com. ⚡Fun fact I like hiking in the mountains, fishing, and developing some useful and cool things.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hürcan alkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hürcan alkan" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/@hürcan alkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="@hürcan alkan" height="30" width="40" /></a>
-<a href="https://kaggle.com/@hurcanalkan09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="@hurcanalkan09" height="30" width="40" /></a>
+  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://www.linkedin.com/in/h%C3%BCrcan-alkan-017028218?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hürcan alkan" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21402652/h%c3%bcrcan-alkan?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hürcan alkan" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/hurcanalkan09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hurcanalkan09" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
